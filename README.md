@@ -4,15 +4,17 @@
 
 Coming from a galaxy far, far away: "***the On-Prem***", I will try to share in this set of articles some of my basic but key learnings that helped me a lot in the first months of my Azure Cloud Networking journey. 
 
-This guide has been inspired by many conversations with customers and colleagues and aims at providing a better understanding of how the routing in Azure is done. The focus will be on private routing in hub & spoke topologies* and will be no breaking news for people already familiar with cloud networking! 
+This guide has been inspired by many conversations with customers and colleagues and aims at providing a better understanding of the routing mechanisms in Azure and how they translate from On-Prem networking. 
+
+The focus will be on private routing in hub & spoke topologies*. For clarity, network security and resiliency best practices as well as internet breakout considerations have been left out of this guide.
 
 (\* The impact of vWAN on VNET communications is not discussed here, but could become a second guide like this one!)
+
+The pre-requisites are general understanding of Azure Virtual Networks ([VNETs](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview)) and of native (non-cloud) networking.
 
 Along with the point of view shared in these repos, please check out the following recent and insightful resources on Azure Networking :
 - Jose Moreno’s recent post highlights the [differences between Cloud and On-Prem Networking](https://blog.cloudtrooper.net/2023/01/21/azure-networking-is-not-like-your-on-onprem-network/)
 - John Savill’s latest (v2) [masterclass on Azure Networtking](https://youtu.be/9DuTWSvsLXM)
-
-The pre-requisites are general understanding of Azure Virtual Networks ([VNETs](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview)) and of native (non-cloud) networking.
 
 ## Guide Structure
 
