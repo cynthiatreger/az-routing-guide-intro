@@ -8,7 +8,7 @@ This guide has been inspired by many conversations with customers and colleagues
 
 The focus will be on private routing in hub & spoke topologies*. For clarity, network security and resiliency best practices as well as internet breakout considerations have been left out of this guide.
 
-(\* The impact of vWAN on VNET communications is not discussed here, but could become a second guide like this one!)
+(\* The impact of vWAN on VNET and branch communications is not discussed here and would require an entire series on its own :slightly_smiling_face:)
 
 The pre-requisites are general understanding of Azure Virtual Networks ([VNETs](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview)) and of native (non-cloud) networking.
 
@@ -18,7 +18,7 @@ Along with the point of view shared in these repos, please check out the followi
 
 ## Guide Structure
 
-I have been thinking of many ways to present the information and have finally decided to propose a **step by step approach**, starting from basic VNET peering connectivity and building up from there on the impact of adding a **virtual network gateway (Expressroute or VPN)** (Episode #1).
+I have been thinking of many ways to present the information and have finally decided to propose a **step by step approach**, starting from basic VNET peering connectivity and building up from there on the impact of adding a **virtual network gateway (Expressroute or VPN)** and how to influence the propagation of On-Prem routes (Episode #1).
 
 Episode #2 will be about clarifying some of the Azure routing elements and the used terminology.
 
@@ -28,15 +28,15 @@ And finally Episode #5 will address a few **ways to take away some of that compl
 
 Feel free to jump to any section that could be an interest to you!
 
-- [EPISODE #1: DISCOVERY/REMINDER OF AZURE VNET CONNECTIVITY & IMPACT OF VIRTUAL NETWORK GATEWAYS](https://github.com/cynthiatreger/az-routing-guide-part1-vnet-peering-and-virtual-network-gateways)
+- [Episode #1: Azure VNET connectivity reminder, impact of Virtual Network Gateways, propagation options for On-Prem routes](https://github.com/cynthiatreger/az-routing-guide-part1-vnet-peering-and-virtual-network-gateways)
 
-- [EPISODE #2: ~~VM ROUTING~~ NIC ROUTING ](https://github.com/cynthiatreger/az-routing-guide-part1-vnet-peering-and-virtual-network-gateways)
+- [Episode #2: ~~VM Routing~~ NIC Routing ](https://github.com/cynthiatreger/az-routing-guide-part1-vnet-peering-and-virtual-network-gateways)
 
-- [EPISODE #3: NVA ROUTING FUNDAMENTALS](https://github.com/cynthiatreger/az-routing-guide-ep3-nva-routing-fundamentals)
+- [Episode #3: NVA Routing Fundamentals](https://github.com/cynthiatreger/az-routing-guide-ep3-nva-routing-fundamentals)
 
-- EPISODE #4: CHAINED NVAS AND BGP 
+- [Epsidode #4: Chained NVAs and BGP](https://github.com/cynthiatreger/az-routing-guide-ep4-chained-nvas-bgp)
 
-- EPIDODE #4: NVA ROUTING v2 WITH VXLAN & ROUTE SERVER
+- Episode #5: NVA Routing v2 with IPSEC/VxLAN & Azure Route Server
 
 
 
