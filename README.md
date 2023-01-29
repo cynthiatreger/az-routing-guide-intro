@@ -30,7 +30,7 @@ Feel free to jump to any section that could be an interest to you!
 
 - [EPISODE #2: ~~VM ROUTING~~ NIC ROUTING ](https://github.com/cynthiatreger/az-routing-guide-part1-vnet-peering-and-virtual-network-gateways)
 
-- EPISODE #3: NVA ROUTING FUNDAMENTALS
+- [EPISODE #3: NVA ROUTING FUNDAMENTALS](https://github.com/cynthiatreger/az-routing-guide-ep3-nva-routing-fundamentals)
 
 - EPISODE #4: CHAINED NVAS AND BGP 
 
