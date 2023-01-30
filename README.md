@@ -2,7 +2,7 @@
 
 ## Background & Objective
 
-Coming from a galaxy far, far away: "***the On-Prem***", I will try to share in this set of articles some of my basic but key learnings that helped me a lot in the first months of my Azure Cloud Networking journey. 
+Coming from the On-Prem, I will try to share in this set of articles some of my basic but key learnings that helped me a lot in the first months of my Azure Cloud Networking journey. 
 
 This guide has been inspired by many conversations with customers and colleagues and aims at providing a better understanding of the routing mechanisms in Azure and how they translate from On-Prem networking. 
 
