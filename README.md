@@ -30,7 +30,7 @@ Feel free to jump to any section that could be an interest to you!
 
 - [Episode #1: Azure VNET connectivity reminder, impact of Virtual Network Gateways, propagation options for On-Prem routes](https://github.com/cynthiatreger/az-routing-guide-part1-vnet-peering-and-virtual-network-gateways)
 
-- [Episode #2: ~~VM Routing~~ NIC Routing ](https://github.com/cynthiatreger/az-routing-guide-part1-vnet-peering-and-virtual-network-gateways)
+- [Episode #2: ~~VM Routing~~ NIC Routing ](https://github.com/cynthiatreger/az-routing-guide-ep2-nic-routing)
 
 - [Episode #3: NVA Routing Fundamentals](https://github.com/cynthiatreger/az-routing-guide-ep3-nva-routing-fundamentals)
 
