@@ -1,6 +1,6 @@
 # Onboarding Guide to Routing in Azure - Intro & Structure
 
-- [Episode #1: Azure VNET connectivity reminder, impact of Virtual Network Gateways, propagation options for On-Prem routes](https://github.com/cynthiatreger/az-routing-guide-part1-vnet-peering-and-virtual-network-gateways)
+- [Episode #1: VNET connectivity, impact of Virtual Network Gateways, On-Prem route propagation options](https://github.com/cynthiatreger/az-routing-guide-part1-vnet-peering-and-virtual-network-gateways)
 
 - [Episode #2: ~~VM Routing~~ NIC Routing ](https://github.com/cynthiatreger/az-routing-guide-ep2-nic-routing)
 
