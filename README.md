@@ -1,5 +1,15 @@
 # Onboarding Guide to Routing in Azure - Intro & Structure
 
+- [Episode #1: Azure VNET connectivity reminder, impact of Virtual Network Gateways, propagation options for On-Prem routes](https://github.com/cynthiatreger/az-routing-guide-part1-vnet-peering-and-virtual-network-gateways)
+
+- [Episode #2: ~~VM Routing~~ NIC Routing ](https://github.com/cynthiatreger/az-routing-guide-ep2-nic-routing)
+
+- [Episode #3: NVA Routing Fundamentals](https://github.com/cynthiatreger/az-routing-guide-ep3-nva-routing-fundamentals)
+
+- [Epsidode #4: Chained NVAs and BGP](https://github.com/cynthiatreger/az-routing-guide-ep4-chained-nvas-bgp)
+
+- [Episode #5: NVA Routing v2 with IPSEC/VxLAN & Azure Route Server](https://github.com/cynthiatreger/az-routing-guide-ep4-nva-routing-2-0)
+##
 ## Background & Objective
 
 Coming from the On-Prem, I will try to share in this set of articles some of my basic but key learnings that helped me a lot in the first months of my Azure Cloud Networking journey. 
@@ -27,16 +37,6 @@ In Episode #3 and Episode #4, things will finally start unfolding as we will see
 And finally Episode #5 will address a few **ways to take away some of that complexity**.
 
 Feel free to jump to any section that could be an interest to you!
-
-- [Episode #1: Azure VNET connectivity reminder, impact of Virtual Network Gateways, propagation options for On-Prem routes](https://github.com/cynthiatreger/az-routing-guide-part1-vnet-peering-and-virtual-network-gateways)
-
-- [Episode #2: ~~VM Routing~~ NIC Routing ](https://github.com/cynthiatreger/az-routing-guide-ep2-nic-routing)
-
-- [Episode #3: NVA Routing Fundamentals](https://github.com/cynthiatreger/az-routing-guide-ep3-nva-routing-fundamentals)
-
-- [Epsidode #4: Chained NVAs and BGP](https://github.com/cynthiatreger/az-routing-guide-ep4-chained-nvas-bgp)
-
-- [Episode #5: NVA Routing v2 with IPSEC/VxLAN & Azure Route Server](https://github.com/cynthiatreger/az-routing-guide-ep4-nva-routing-2-0)
 
 
 
