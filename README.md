@@ -8,7 +8,7 @@
 
 - [Epsidode #4: Chained NVAs and BGP](https://github.com/cynthiatreger/az-routing-guide-ep4-chained-nvas-bgp) - coming soon
 
-- [Episode #5: NVA Routing 2.0 with IPSEC/VxLAN & Azure Route Server](https://github.com/cynthiatreger/az-routing-guide-ep4-nva-routing-2-0) - coming soon
+- [Episode #5: NVA Routing 2.0 with IPSEC/VxLAN & Azure Route Server](https://github.com/cynthiatreger/az-routing-guide-ep5-nva-routing-2-0) - coming soon
 ##
 ## Background & Objective
 
