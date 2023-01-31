@@ -2,7 +2,7 @@
 
 - [Episode #1: VNET connectivity, impact of Virtual Network Gateways, On-Prem route propagation options](https://github.com/cynthiatreger/az-routing-guide-part1-vnet-peering-and-virtual-network-gateways)
 
-- [Episode #2: ~~VM Routing~~ NIC Routing ](https://github.com/cynthiatreger/az-routing-guide-ep2-nic-routing)
+- [Episode #2: ~~VM Routing~~ NIC Routing & Azure routes](https://github.com/cynthiatreger/az-routing-guide-ep2-nic-routing)
 
 - [Episode #3: NVA Routing Fundamentals](https://github.com/cynthiatreger/az-routing-guide-ep3-nva-routing-fundamentals)
 
@@ -28,7 +28,7 @@ Along with the point of view shared in these repos, please check out the followi
 
 ## Guide Structure
 
-I have been thinking of many ways to present the information and have finally decided to propose a **step by step approach**, starting from basic VNET peering connectivity and building up from there on the impact of adding a **virtual network gateway (Expressroute or VPN)** and how to influence the propagation of On-Prem routes ([Episode #1](https://github.com/cynthiatreger/az-routing-guide-ep1-vnet-peering-and-virtual-network-gateways)).
+I have been thinking of many ways to present the information and have finally decided to propose a **step by step approach**, starting from basic VNET peering connectivity and building up from there on the impact of adding an **Azure Virtual Network Gateway (Expressroute or VPN)** and how to influence the propagation of On-Prem routes ([Episode #1](https://github.com/cynthiatreger/az-routing-guide-ep1-vnet-peering-and-virtual-network-gateways)).
 
 [Episode #2](https://github.com/cynthiatreger/az-routing-guide-ep2-nic-routing) will be about clarifying some of the Azure routing elements and the used terminology.
 
