@@ -4,11 +4,11 @@
 
 - [Episode #2: ~~VM Routing~~ NIC Routing & Azure routes](https://github.com/cynthiatreger/az-routing-guide-ep2-nic-routing)
 
-- [Episode #3: NVA Routing Fundamentals](https://github.com/cynthiatreger/az-routing-guide-ep3-nva-routing-fundamentals)
+- [Episode #3: NVA Routing Fundamentals](https://github.com/cynthiatreger/az-routing-guide-ep3-nva-routing-fundamentals) - coming soon
 
-- [Epsidode #4: Chained NVAs and BGP](https://github.com/cynthiatreger/az-routing-guide-ep4-chained-nvas-bgp)
+- [Epsidode #4: Chained NVAs and BGP](https://github.com/cynthiatreger/az-routing-guide-ep4-chained-nvas-bgp) - coming soon
 
-- [Episode #5: NVA Routing 2.0 with IPSEC/VxLAN & Azure Route Server](https://github.com/cynthiatreger/az-routing-guide-ep4-nva-routing-2-0)
+- [Episode #5: NVA Routing 2.0 with IPSEC/VxLAN & Azure Route Server](https://github.com/cynthiatreger/az-routing-guide-ep4-nva-routing-2-0) - coming soon
 ##
 ## Background & Objective
 
