@@ -34,7 +34,7 @@ I have been thinking of many ways to present the information and have finally de
 
 In [Episode #3](https://github.com/cynthiatreger/az-routing-guide-ep3-nva-routing-fundamentals) and [Episode #4](https://github.com/cynthiatreger/az-routing-guide-ep4-chained-nvas-bgp), things will finally start unfolding as we will see **how traditional On-Prem routing interoperates with Azure routing** when deploying NVAs (routers, firewalls, SDWAN hubs or IPSec concentrators) and running BGP, and how this can sometimes lead to more complex designs. 
 
-And finally [Episode #5](https://github.com/cynthiatreger/az-routing-guide-ep4-nva-routing-2-0) will address a few **ways to take away some of that complexity**.
+And finally [Episode #5](https://github.com/cynthiatreger/az-routing-guide-ep5-nva-routing-2-0) will address a few **ways to take away some of that complexity**.
 
 Feel free to jump to any section that could be an interest to you!
 
