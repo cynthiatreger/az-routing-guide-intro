@@ -32,7 +32,7 @@ I have been thinking of many ways to present the information and have finally de
 
 [Episode #2](https://github.com/cynthiatreger/az-routing-guide-ep2-nic-routing) will be about clarifying some of the Azure routing elements and the used terminology.
 
-In [Episode #3](https://github.com/cynthiatreger/az-routing-guide-ep3-nva-routing-fundamentals) and [Episode #4](https://github.com/cynthiatreger/az-routing-guide-ep4-chained-nvas), things will finally start unfolding as we will see **how traditional On-Prem routing interoperates with Azure routing** when deploying NVAs (routers, firewalls, SDWAN hubs or IPSec concentrators), and how this can sometimes lead to more complex designs. 
+In [Episode #3](https://github.com/cynthiatreger/az-routing-guide-ep3-nva-routing-fundamentals) and [Episode #4](https://github.com/cynthiatreger/az-routing-guide-ep4-chained-nvas), things will finally start unfolding as we will see **how traditional On-Prem routing interoperates with Azure routing** when deploying NVAs (routers, firewalls, SDWAN hubs or IPSec concentrators), and how this leads to more complex designs. 
 
 And finally [Episode #5](https://github.com/cynthiatreger/az-routing-guide-ep5-nva-routing-2-0) will address a few **ways to take away some of that complexity**.
 
