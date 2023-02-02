@@ -4,7 +4,7 @@
 
 - [Episode #2: ~~VM Routing~~ NIC Routing & Azure routes](https://github.com/cynthiatreger/az-routing-guide-ep2-nic-routing)
 
-- [Episode #3: NVA Routing Fundamentals](https://github.com/cynthiatreger/az-routing-guide-ep3-nva-routing-fundamentals) - coming soon
+- [Episode #3: NVA Routing Fundamentals](https://github.com/cynthiatreger/az-routing-guide-ep3-nva-routing-fundamentals)
 
 - [Epsidode #4: Chained NVAs](https://github.com/cynthiatreger/az-routing-guide-ep4-chained-nvas) - coming soon
 
